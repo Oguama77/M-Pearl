@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community==0.3.26
+langchain-openai
+openai>=1.0.0
+scikit-learn
+pydantic
+python-dotenv 
